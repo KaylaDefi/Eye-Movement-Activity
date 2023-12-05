@@ -1,0 +1,1 @@
+The Eye Movement Activity is a combination of JavaScript and CSS that creates a dynamic user experience. If you run this exercise in the browser it creates a webpage with two eyes that follow your mouse movement.
