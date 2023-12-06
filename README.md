@@ -2,4 +2,4 @@ Description of the Project: The Eye Movement Activity is a combination of JavaSc
 
 How to Run: You can clone this project and run index.html in your browser to see the interact eye movement experience.
 
-Support: For help with this project, please contact me via my website
+Support: For help with this project, please contact me via my website: KaylaDefi.github.io
